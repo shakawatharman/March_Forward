@@ -40,6 +40,48 @@ const Registration = () => {
                   Spoken English
                   </label>
                 </div>
+                <div class="form-check d-flex">
+                  <input class="form-check-input" type="checkbox" id="gridCheck1" />
+                  <label class="form-check-label ps-1" for="gridCheck1">
+                  BCS Preli
+                  </label>
+                </div>
+                <div class="form-check d-flex">
+                  <input class="form-check-input" type="checkbox" id="gridCheck1" />
+                  <label class="form-check-label ps-1" for="gridCheck1">
+                  BCS Written
+                  </label>
+                </div>
+                <div class="form-check d-flex">
+                  <input class="form-check-input" type="checkbox" id="gridCheck1" />
+                  <label class="form-check-label ps-1" for="gridCheck1">
+                  Bank Job Preparation
+                  </label>
+                </div>
+                <div class="form-check d-flex">
+                  <input class="form-check-input" type="checkbox" id="gridCheck1" />
+                  <label class="form-check-label ps-1" for="gridCheck1">
+                  Language & Communication Course
+                  </label>
+                </div>
+                <div class="form-check d-flex">
+                  <input class="form-check-input" type="checkbox" id="gridCheck1" />
+                  <label class="form-check-label ps-1" for="gridCheck1">
+                  Skill Development
+                  </label>
+                </div>
+                <div class="form-check d-flex">
+                  <input class="form-check-input" type="checkbox" id="gridCheck1" />
+                  <label class="form-check-label ps-1" for="gridCheck1">
+                  Basic Math
+                  </label>
+                </div>
+                <div class="form-check d-flex">
+                  <input class="form-check-input" type="checkbox" id="gridCheck1" />
+                  <label class="form-check-label ps-1" for="gridCheck1">
+                  Beautiful Hand Writing
+                  </label>
+                </div>
               </div>
             </div>
             <div class="form-group mb-2 row">

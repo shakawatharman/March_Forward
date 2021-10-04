@@ -3,61 +3,61 @@
         "id":1,
         "img":"https://marchforwardbd.fra1.cdn.digitaloceanspaces.com/courses/614805949a0191632109972614805949a022.jpg",
         "course":"Spoken English",
-        "detail":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Unde, velit ab quod tempora explicabo sed laudantium numquam itaque culpa? Veniam!",
+        "detail":"Get a highly qualified and experienced teacher who will design the course depending on your specific needs do a variety of authentic communicative tasks in pairs and groups.Focus on natural English pronunciation,improve the fluency and accuracy of your spoken English.",
         "price":"400BDT"
     },{
         "id":2,
         "img":"https://marchforwardbd.fra1.cdn.digitaloceanspaces.com/courses/614742bbe296a1632060091614742bbe2973.jpg",
         "course":"Free Hand Writing",
-        "detail":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Unde, velit ab quod tempora explicabo sed laudantium numquam itaque culpa? Veniam!",
+        "detail":". Handwriting can help us slow down and fully engage with our thoughts. Have you ever heard anyone say, “I type as fast as I think”? This is certainly an asset when transcribing the spoken word, but thoughts need to breathe (as do writers), and writing by hand conveniently holds such a space for thoughts to fully form before being set down in sentences.",
         "price":"550BDT"
     },{
         "id":3,
         "img":"https://marchforwardbd.fra1.cdn.digitaloceanspaces.com/courses/602df66c027a51613624940602df66c027ab.jpg",
         "course":"Digital Marketing",
-        "detail":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Unde, velit ab quod tempora explicabo sed laudantium numquam itaque culpa? Veniam!",
+        "detail":"Digital marketing, also called online marketing, is the promotion of brands to connect with potential customers using the internet and other forms of digital communication. This includes not only email, social media, and web-based advertising, but also text and multimedia messages as a marketing channel.",
         "price":"1000BDT"
     },{
         "id":4,
         "img":"https://marchforwardbd.fra1.cdn.digitaloceanspaces.com/courses/61474284c842a163206003661474284c8433.jpg",
         "course":"BCS Preli",
-        "detail":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Unde, velit ab quod tempora explicabo sed laudantium numquam itaque culpa? Veniam!",
+        "detail":"This examination is a screening test conducted on the following pattern: Subject : Bengali - 35 Questions, English - 35 Questions, General Knowledge on Bangladesh & International Affairs - 50 Questions, General Science and computer - 30 Questions, Mathematical Reasoning and Mental Ability - 30 Questions, ethics and good governance -10, geography-10",
         "price":"1000BDT"
     },{
         "id":41,
         "img":"https://marchforwardbd.fra1.cdn.digitaloceanspaces.com/courses/614742d8bed721632060120614742d8bed79.jpg",
         "course":"BCS Written",
-        "detail":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Unde, velit ab quod tempora explicabo sed laudantium numquam itaque culpa? Veniam!",
+        "detail":"Written examination - This is the main test, usually held in October/November/December every year. Notification for this is published about one month before the exam. Results are usually published 6 to 10 months after the exam.Our course may help you.",
         "price":"1000BDT"
     },{
         "id":5,
         "img":"https://marchforwardbd.fra1.cdn.digitaloceanspaces.com/courses/6147445bcece016320605076147445bcece9.jpg",
         "course":"Bank Job Preparation",
-        "detail":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Unde, velit ab quod tempora explicabo sed laudantium numquam itaque culpa? Veniam!",
+        "detail":"You will attend a job but you don’t read previous years questions. It’s not right at all. If you want to remove your tension about question pattern. First, your duty is only read previous question.You will get ideas. You can select which topics is good for you. Which topics you can skip and which are not.So we are welcoming you to our course.",
         "price":"1000BDT"
     },{
         "id":6,
         "img":"https://marchforwardbd.fra1.cdn.digitaloceanspaces.com/courses/60d563f778bc7162459749560d563f778bcd.jpg",
         "course":"Language & Communication Course",
-        "detail":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Unde, velit ab quod tempora explicabo sed laudantium numquam itaque culpa? Veniam!",
+        "detail":"This course is a complement to the Introduction to Linguistics sequence. It can also be taken as an alternative to it by those students who are not majoring in Linguistics but are interested in learning something about language.",
         "price":"300BDT"
     },{
         "id":7,
         "img":"https://marchforwardbd.fra1.cdn.digitaloceanspaces.com/courses/61388182c60ab163109312261388182c60b4.jpg",
         "course":"Skill Development",
-        "detail":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Unde, velit ab quod tempora explicabo sed laudantium numquam itaque culpa? Veniam!",
+        "detail":"What is skill development courses?Skill Development Courses – Many institutions across the nation are engaged in highly specialized academic and industry training programs to promote skills among its students and youth, with a greater emphasis on the improvement of employment opportunities and research activities.",
         "price":"600BDT"
     },{
         "id":8,
         "img":"https://marchforwardbd.fra1.cdn.digitaloceanspaces.com/courses/60d4049156b7e162450753760d4049156b86.jpg",
         "course":"Basic Math",
-        "detail":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Unde, velit ab quod tempora explicabo sed laudantium numquam itaque culpa? Veniam!",
+        "detail":"What is a basic math course? This course is a basic course in math and algebra. It includes percentages , fractions , decimals and algebraic equations. I teach them how to solve an algebraic equation and a quadratic equation.",
         "price":"800BDT"
     },{
         "id":232,
         "img":"https://marchforwardbd.fra1.cdn.digitaloceanspaces.com/courses/614742bbe296a1632060091614742bbe2973.jpg",
         "course":"Beautiful Hand Writing",
-        "detail":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Unde, velit ab quod tempora explicabo sed laudantium numquam itaque culpa? Veniam!",
+        "detail":"Good handwriting is legible, fluent and efficient.If these basic skills can be translated to writing letters, words and sentences, then all of the requirements for developing legible, fluid, fatigue-free, efficient and individual handwriting are fulfilled.",
         "price":"510BDT"
     }
 ]
