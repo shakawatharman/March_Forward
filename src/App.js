@@ -8,12 +8,13 @@ import {BrowserRouter as Router, Switch, Route } from 'react-router-dom'
 import Registration from './Components/Registration/Registration';
 import About from './Components/About/About';
 import  NotFound  from './Components/NotFound/NotFound';
+import RegisDone from './Components/RegisDone/RegisDone';
 
 function App() {
   return (
     <div className="App">
         <Router>
-        <Header />
+          <Header />
           <Switch>
             <Route exact path="/">
                 <Home></Home>
@@ -29,6 +30,10 @@ function App() {
             </Route>
             <Route path="/about">
                 <About></About>
+            </Route>
+            
+            <Route exact path='/regisdone'>
+                <RegisDone></RegisDone>
             </Route>
             <Route path="*">
                 <NotFound></NotFound>

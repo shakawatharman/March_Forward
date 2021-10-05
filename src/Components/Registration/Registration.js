@@ -1,15 +1,27 @@
 import React from 'react';
+import { useHistory } from 'react-router';
+
+
+
 
 const Registration = () => {
+
+  const history = useHistory();
+const handleRegistration = ()=>{
+  history.push('/regisdone');
+}
+
     return (
+     
         <div className='container py-5 vheight'>
           <div className="row">
             <div className="col-7 m-auto">
               <form>
+                
             <div class="form-group mb-2 row">
-              <label for="name" class="col-sm-2 col-form-label">Name</label>
+              <label for="name" class="col-sm-2 col-form-label">Your Name</label>
               <div class="col-sm-10">
-                <input type="email" class="form-control" id="name" placeholder="Name" />
+                <input type="email" class="form-control" id="name" placeholder="Type your name" />
               </div>
             </div>
             <div class="form-group mb-2 row">
@@ -21,7 +33,7 @@ const Registration = () => {
             <div class="form-group mb-2 row">
               <div class="col-sm-2"></div>
               <div class="col-sm-10">
-                <h2 className='d-flex text-left'>Select Your Courses</h2>
+                <h2 className='d-flex text-left'>Select Your Courses Below:</h2>
                 <div class="form-check d-flex">
                   <input class="form-check-input" type="checkbox" id="gridCheck1" />
                   <label class="form-check-label ps-1" for="gridCheck1">
@@ -86,7 +98,7 @@ const Registration = () => {
             </div>
             <div class="form-group mb-2 row">
               <div class="col-sm-10">
-                <button type="submit" class="btn btn-primary">Registration</button>
+                <button onClick={handleRegistration} type="submit" class="btn btn-primary">Registration</button>
               </div>
             </div>
           </form>
